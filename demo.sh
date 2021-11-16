@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 this was first commit
 this is an master branch
@@ -11,3 +12,8 @@ most of the prastic it can be a master
 that was the useful ness of the line
 that was the new commit of the file
 >>>>>>> dev
+=======
+this was first commit
+this is an master branch
+
+>>>>>>> 5c1f939... no message
