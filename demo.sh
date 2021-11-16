@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+this head of the file
 this was first commit
-this is an master branch
-
-=======
+this is an master bran
 this is dev branch now
 that is devopment branch
 this is the most imporent tool for git
