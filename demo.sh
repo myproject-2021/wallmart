@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+we can apply the stash command
+>>>>>>> 5843155... stash commit
 =======
 we can apply the stash command
 >>>>>>> 5843155... stash commit
