@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 we can apply the stash command
@@ -12,6 +13,9 @@ we can apply the stash command
 =======
 we can apply the stash command
 >>>>>>> 5843155... stash commit
+=======
+we can apply the stash command
+>>>>>>> master
 this was first commit
 this is an master
 this is dev branch now
