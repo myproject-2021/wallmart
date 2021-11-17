@@ -1,9 +1,11 @@
 <<<<<<< HEAD
-
-this was first commit
-this is an master branch
+<<<<<<< HEAD
 
 =======
+we can apply the stash command
+>>>>>>> 5843155... stash commit
+this was first commit
+this is an master
 this is dev branch now
 that is devopment branch
 this is the most imporent tool for git
